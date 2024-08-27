@@ -1,5 +1,5 @@
 Name:		python-pyftdi
-Version:	0.55.0
+Version:	0.55.4
 Release:	1
 Source0:	https://files.pythonhosted.org/packages/source/p/pyftdi/pyftdi-%{version}.tar.gz
 Summary:	FTDI device driver (pure Python)
