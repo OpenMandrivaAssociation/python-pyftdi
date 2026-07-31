@@ -1,5 +1,5 @@
 Name:		python-pyftdi
-Version:	0.57.1
+Version:	0.57.2
 Release:	1
 # pyftdi currently doesn't make source releases on pypi
 #Source0:	https://files.pythonhosted.org/packages/source/p/pyftdi/pyftdi-%{version}.tar.gz
